@@ -1,0 +1,29 @@
+[app] (name=fbrun)
+  [Position]	(CENTER)	{0 0}
+  [Layer]	{2}
+[end]
+[app] (name=xfce4-terminal) (class=Xfce4-terminal) (role=xfce4-terminal-1721409113-3757511444)
+  [Position]	(UPPERLEFT)	{15% 17%}
+[end]
+[app] (name=xfce4-terminal) (class=Xfce4-terminal) (role=xfce4-terminal-1721409215-3276401197)
+[end]
+[app] (name=abiword) (class=Abiword) (role=topLevelWindow)
+  [Dimensions]	{78% 81%}
+  [Position]	(UPPERLEFT)	{0% 0%}
+[end]
+[app] (name=gnumeric) (class=Gnumeric)
+  [Dimensions]	{75% 78%}
+  [Position]	(UPPERLEFT)	{0% 0%}
+[end]
+[app] (name=xfce4-terminal) (class=Xfce4-terminal) (role=xfce4-terminal-1721517350-4102176689)
+  [Dimensions]	{78% 73%}
+  [Position]	(UPPERLEFT)	{12% 16%}
+[end]
+[app] (name=xfce4-terminal) (class=Xfce4-terminal) (role=xfce4-terminal-1721518501-631476390)
+  [Dimensions]	{71% 70%}
+  [Position]	(UPPERLEFT)	{16% 15%}
+[end]
+[app] (name=xfce4-terminal) (class=Xfce4-terminal) (role=xfce4-terminal-1721520029-502197335)
+  [Dimensions]	{71% 70%}
+  [Position]	(UPPERLEFT)	{15% 21%}
+[end]

@@ -1,0 +1,9 @@
+[begin] (fluxbox)
+[exec](Terminal){xfce4-terminal}
+[exec](Gerenciador){pcmanfm}
+[exec](Navegador) {palemoon}
+[exec](IDE) {subl}
+[exec](Planilha) {gnumeric}
+[exec](Editor) {abiword}
+[include] (/etc/X11/fluxbox/fluxbox-menu)
+[end]
