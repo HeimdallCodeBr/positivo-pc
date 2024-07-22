@@ -28,5 +28,7 @@
   [Position]	(UPPERLEFT)	{15% 21%}
 [end]
 [transient] (name=sublime_text) (class=Sublime_text) (role=GtkFileChooserDialog)
+  [Dimensions]	{70% 78%}
+  [Position]	(UPPERLEFT)	{16% 13%}
   [Fullscreen]	{no}
 [end]
