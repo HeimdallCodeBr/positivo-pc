@@ -1,0 +1,12 @@
+apps
+fbrun_history
+init
+keys
+lastwallpaper
+menu
+overlay
+slitlist
+startup
+styles
+teste.txt
+windowmenu
